@@ -1,0 +1,10 @@
+title       = "usgswater"
+baseURL     = "https://usgswaterservices-cli.tamnd.com/"
+description = "USGS National Water Information System — streamflow and water data"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/usgswaterservices-cli"
